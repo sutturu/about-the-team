@@ -3,4 +3,6 @@
 > This is a magical team
 
 * Ryan Morris
-* [Next Name]
+* Bhuvana Nallagatla
+
+
