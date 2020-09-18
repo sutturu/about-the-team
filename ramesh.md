@@ -1,1 +1,3 @@
-This is my profile
+This is ramesh profile
+Fav color:Blue
+Fav animal:Cheetah
