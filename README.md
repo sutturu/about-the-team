@@ -4,3 +4,4 @@
 
 * Ryan Morris
 * [Next Name]
+* Nishith Shah
