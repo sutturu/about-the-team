@@ -1,2 +1,2 @@
-*fav adssg
-*dadfs sdf
+*fav meal: pizza
+*fav animal: lion
